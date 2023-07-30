@@ -7,6 +7,8 @@ Bitcoin Prediction using RNN and GRU particularly on the basis of Closing Price
 ***ON THE BOARD*** :
  1) KEERTHINATHAN 
  2) VISHAL KRISHH
- SHEBA SULTHANA
- LAVANYA
- MEGHANA
+ 3)  LAVANYA
+ 4) SHEBA SULTHANA
+ 5)  MEGHANA
+
+
